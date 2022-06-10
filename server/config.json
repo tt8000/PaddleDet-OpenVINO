@@ -1,0 +1,13 @@
+{
+  "model_path": "./model.onnx",
+  "label_list_path": "./label_list.txt",
+  "server": {
+    "ip": "127.0.0.1",
+    "port": 8088
+  },
+  "history": {
+    "images": "./history/images",
+    "infos": "./history/jsons"
+  },
+  "userinfo": "./userinfo.json"
+}

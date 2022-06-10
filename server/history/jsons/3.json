@@ -1,0 +1,1 @@
+{"predict_time": 58.841705322265625, "result": [{"class_name": "zhen_kong", "score": 0.6253685355186462, "xmin": 308, "ymin": 138, "xmax": 342, "ymax": 174}, {"class_name": "zang_wu", "score": 0.9999701976776123, "xmin": 247, "ymin": 239, "xmax": 352, "ymax": 319}, {"class_name": "zang_wu", "score": 0.9991750121116638, "xmin": 207, "ymin": 105, "xmax": 282, "ymax": 193}]}
